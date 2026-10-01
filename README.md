@@ -193,6 +193,6 @@ This is my **second frontend project with Vite + React**, and it pushed me to le
 
 If you liked this project, drop a ⭐ on the repo.
 
-**Made with ❤️ and lots of ☕ by [YOUR NAME](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ and lots of ☕ by [Apoorva K](https://github.com/Apoorva3105)**
 
 </div>
